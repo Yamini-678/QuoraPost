@@ -1,0 +1,15 @@
+
+body{
+    background-color: rgb(169, 206, 234);
+}
+
+h1{
+    font-style: italic;
+}
+.container{
+    height:120px;
+    width:100%;
+    color:black;
+    background-color: white;
+    box-shadow: 4px 4px 4px 4px  rgb(85, 86, 87);
+}

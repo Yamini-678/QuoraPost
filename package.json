@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "method-override": "^3.0.0",
+    "node": "^18.20.8",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0",
+    "uuidv4": "^6.2.13"
+  }
+}
